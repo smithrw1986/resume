@@ -1,3 +1,6 @@
+---
+---
+
 # Ryan Smith
 
 **Web Developer | Software Developer**
@@ -6,7 +9,6 @@
 - 📧 smithrw1986@gmail.com  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ryan-smith-636052289)  
 - [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://ryan-smith-portfolio.netlify.app/)
-
 
 ---
 
@@ -73,5 +75,3 @@ See more projects 👉 [ryan-smith-portfolio.netlify.app](https://ryan-smith-por
 🔗 [Portfolio](https://ryan-smith-portfolio.netlify.app/)
 
 ---
-
-*This README serves as a public, version-controlled snapshot of my resume. For a downloadable PDF, [click here](./RyanSmith_Resume.pdf).*
