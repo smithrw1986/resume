@@ -3,7 +3,7 @@
 
 # Ryan Smith
 
-**Web Developer | Software Developer**
+### Web Developer | Software Developer
 
 - 📍 Peoria, IL  
 - 📧 smithrw1986@gmail.com  
